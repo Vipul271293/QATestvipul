@@ -34,8 +34,12 @@ public class LogInPage extends BaseInitMaster{
 	@Test(dataProvider ="getTestData")
 	public static void LogIn(String username, String password) throws InterruptedException, IOException {
 		
-	//System.out.println("Vipul");
+	System.out.println("Vipul");
 	System.out.println("Arti");
+	
+	System.out.println("VCP QA");
+	
+
 		driver.get("https://lmsgyrus.gyrusaim.net/auth/login");
 		Thread.sleep(5000);
 		UtilityMethods.ExplicitWait_Operation("USER_NAME", operationtype.esendkeys,username, "XPATH");
