@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/unicodetechnologiesXLSWriteConnector.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/client-combined-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/client-combined-3.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/mysql-connector-java-5.1.26-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software/GyrusPractical/lib/testng-6.8.5.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
