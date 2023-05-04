@@ -37,9 +37,14 @@ public class LogInPage extends BaseInitMaster{
 	System.out.println("Vipul");
 	System.out.println("Arti");
 	
+<<<<<<< HEAD
 	System.out.println("VCP QA");
 	
 
+=======
+	System.out.println("Cygnet");
+	
+>>>>>>> master
 		driver.get("https://lmsgyrus.gyrusaim.net/auth/login");
 		Thread.sleep(5000);
 		UtilityMethods.ExplicitWait_Operation("USER_NAME", operationtype.esendkeys,username, "XPATH");
